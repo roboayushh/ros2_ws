@@ -1,0 +1,6 @@
+build/       # Build artifacts
+install/     # Install output
+log/         # Logs from builds/runs
+*.pyc        # Python cache
+__pycache__/ # Python auto-generated folders
+*.swp        # Temporary swap files from editors like vim
