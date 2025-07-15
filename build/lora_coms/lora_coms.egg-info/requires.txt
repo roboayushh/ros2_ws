@@ -1,0 +1,3 @@
+pyserial
+setuptools
+sx127x

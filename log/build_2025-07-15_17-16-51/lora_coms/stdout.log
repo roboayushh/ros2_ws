@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/lora_coms/lora_coms.egg-info
+writing ../../build/lora_coms/lora_coms.egg-info/PKG-INFO
+writing dependency_links to ../../build/lora_coms/lora_coms.egg-info/dependency_links.txt
+writing entry points to ../../build/lora_coms/lora_coms.egg-info/entry_points.txt
+writing requirements to ../../build/lora_coms/lora_coms.egg-info/requires.txt
+writing top-level names to ../../build/lora_coms/lora_coms.egg-info/top_level.txt
+writing manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+reading manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+writing manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nextauv/rov_ws/build/lora_coms/build
+creating /home/nextauv/rov_ws/build/lora_coms/build/lib
+creating /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+copying lora_coms/lora_node.py -> /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+copying lora_coms/__init__.py -> /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+running install
+running install_lib
+creating /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+copying /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms/lora_node.py -> /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+copying /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms/__init__.py -> /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+byte-compiling /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms/lora_node.py to lora_node.cpython-312.pyc
+byte-compiling /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index
+creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index
+creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index/packages
+copying resource/lora_coms -> /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index/packages
+copying package.xml -> /home/nextauv/rov_ws/install/lora_coms/share/lora_coms
+running install_egg_info
+Copying ../../build/lora_coms/lora_coms.egg-info to /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms-0.0.0-py3.12.egg-info
+running install_scripts
+Installing lora_node script to /home/nextauv/rov_ws/install/lora_coms/lib/lora_coms
+writing list of installed files to '/home/nextauv/rov_ws/build/lora_coms/install.log'

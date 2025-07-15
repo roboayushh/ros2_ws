@@ -1,0 +1,37 @@
+[1.208s] Invoking command in '/home/nextauv/rov_ws/src/lora_coms': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nextauv/rov_ws/build/lora_coms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lora_coms build --build-base /home/nextauv/rov_ws/build/lora_coms/build install --record /home/nextauv/rov_ws/build/lora_coms/install.log --single-version-externally-managed install_data
+[1.522s] running egg_info
+[1.522s] creating ../../build/lora_coms/lora_coms.egg-info
+[1.544s] writing ../../build/lora_coms/lora_coms.egg-info/PKG-INFO
+[1.544s] writing dependency_links to ../../build/lora_coms/lora_coms.egg-info/dependency_links.txt
+[1.545s] writing entry points to ../../build/lora_coms/lora_coms.egg-info/entry_points.txt
+[1.545s] writing requirements to ../../build/lora_coms/lora_coms.egg-info/requires.txt
+[1.545s] writing top-level names to ../../build/lora_coms/lora_coms.egg-info/top_level.txt
+[1.545s] writing manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+[1.590s] reading manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+[1.591s] writing manifest file '../../build/lora_coms/lora_coms.egg-info/SOURCES.txt'
+[1.591s] running build
+[1.591s] running build_py
+[1.591s] creating /home/nextauv/rov_ws/build/lora_coms/build
+[1.591s] creating /home/nextauv/rov_ws/build/lora_coms/build/lib
+[1.591s] creating /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+[1.592s] copying lora_coms/lora_node.py -> /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+[1.592s] copying lora_coms/__init__.py -> /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms
+[1.592s] running install
+[1.599s] running install_lib
+[1.622s] creating /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+[1.623s] copying /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms/lora_node.py -> /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+[1.623s] copying /home/nextauv/rov_ws/build/lora_coms/build/lib/lora_coms/__init__.py -> /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms
+[1.623s] byte-compiling /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms/lora_node.py to lora_node.cpython-312.pyc
+[1.625s] byte-compiling /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms/__init__.py to __init__.cpython-312.pyc
+[1.625s] running install_data
+[1.625s] creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index
+[1.625s] creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index
+[1.625s] creating /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index/packages
+[1.626s] copying resource/lora_coms -> /home/nextauv/rov_ws/install/lora_coms/share/ament_index/resource_index/packages
+[1.626s] copying package.xml -> /home/nextauv/rov_ws/install/lora_coms/share/lora_coms
+[1.626s] running install_egg_info
+[1.649s] Copying ../../build/lora_coms/lora_coms.egg-info to /home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages/lora_coms-0.0.0-py3.12.egg-info
+[1.650s] running install_scripts
+[1.800s] Installing lora_node script to /home/nextauv/rov_ws/install/lora_coms/lib/lora_coms
+[1.801s] writing list of installed files to '/home/nextauv/rov_ws/build/lora_coms/install.log'
+[1.838s] Invoked command in '/home/nextauv/rov_ws/src/lora_coms' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nextauv/rov_ws/build/lora_coms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nextauv/rov_ws/install/lora_coms/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lora_coms build --build-base /home/nextauv/rov_ws/build/lora_coms/build install --record /home/nextauv/rov_ws/build/lora_coms/install.log --single-version-externally-managed install_data

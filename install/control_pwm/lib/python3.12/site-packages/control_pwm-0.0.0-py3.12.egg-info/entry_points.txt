@@ -1,0 +1,2 @@
+[console_scripts]
+control_node = control_pwm.control_node:main
